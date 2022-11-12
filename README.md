@@ -27,6 +27,10 @@ Things included are:
 
 ### Used in Following Projects
 
+* [coursera-mlops-aws-c3-step-functions](https://github.com/nogibjj/coursera-mlops-aws-c3-step-functions)
+* [coursera-mlops-aws-c3-eda](https://github.com/nogibjj/coursera-mlops-aws-c3-eda)
+* [coursera-mlops-aws-c3-linear-regression](https://github.com/nogibjj/coursera-mlops-aws-c3-linear-regression)
+* [coursera-mlops-aws-c30fine-tune-sagemaker-studio-lab](https://github.com/nogibjj/coursera-mlops-aws-c30fine-tune-sagemaker-studio-lab)
 
 ### References
 
